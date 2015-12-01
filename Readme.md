@@ -5,6 +5,11 @@ A curated list of recipes for docker compose.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
+## Recipes
+
+- [WordPress](recipes/wordpress.yml)
+
+
 ## Contribute
 
 Contributions welcome! Feel free to submit a PR with your recipe.

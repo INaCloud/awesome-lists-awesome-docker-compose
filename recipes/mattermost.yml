@@ -1,0 +1,5 @@
+mattermost:
+  image: mattermost/platform
+  ports:
+    - 80:80
+  restart: always

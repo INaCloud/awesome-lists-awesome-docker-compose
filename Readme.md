@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Drupal](recipes/drupal.yml)
 - [Joomla](recipes/joomla.yml)
 - [GitLab](recipes/gitlab.yml) (copied from [docker-gitlab](https://github.com/sameersbn/docker-gitlab/blob/master/docker-compose.yml))
+- [Metabase](recipes/metabase.yml)
 - [Ghost](recipes/ghost.yml)
 - [OpenCart](recipes/opencart.yml)
 

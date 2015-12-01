@@ -8,6 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Recipes
 
 - [WordPress](recipes/wordpress.yml)
+- [Drupal](recipes/drupal.yml)
 - [OpenCart](recipes/opencart.yml)
 
 

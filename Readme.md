@@ -13,6 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [GitLab](recipes/gitlab.yml) (copied from [docker-gitlab](https://github.com/sameersbn/docker-gitlab/blob/master/docker-compose.yml))
 - [Metabase](recipes/metabase.yml)
 - [Mattermost](recipes/mattermost.yml)
+- [Let's Chat](recipes/lets-chat.yml)
 - [Ghost](recipes/ghost.yml)
 - [OpenCart](recipes/opencart.yml)
 

@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WordPress](recipes/wordpress.yml)
 - [Drupal](recipes/drupal.yml)
 - [Joomla](recipes/joomla.yml)
+- [GitLab](recipes/gitlab.yml) (copied from [docker-gitlab](https://github.com/sameersbn/docker-gitlab/blob/master/docker-compose.yml))
 - [Ghost](recipes/ghost.yml)
 - [OpenCart](recipes/opencart.yml)
 

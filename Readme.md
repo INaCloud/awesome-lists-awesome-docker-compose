@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mattermost](recipes/mattermost.yml)
 - [Let's Chat](recipes/lets-chat.yml)
 - [Jenkins](recipes/jenkins.yml)
+- [Jira](recipes/jira.yml)
 - [Ghost](recipes/ghost.yml)
 - [PrestaShop](recipes/prestashop.yml)
 - [OpenCart](recipes/opencart.yml)

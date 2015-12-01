@@ -1,0 +1,5 @@
+kanboard:
+  image: kanboard/kanboard
+  ports:
+    - 80:80
+  restart: always

@@ -1,0 +1,5 @@
+app:
+  image: ghost
+  ports:
+    - 80:2368
+  restart: always
